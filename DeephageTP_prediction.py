@@ -321,7 +321,7 @@ def predict_and_loss(model, data_to_predict, len_w):
 	print("all is ended.")
 
 
-unknown_data = 'example_data.fa'    # Replace "training_data.faa" with the dataset you want to predict
+unknown_data = 'training_data.faa'    # Replace "training_data.faa" with the dataset you want to predict
 ref_Data = 'training_data.faa'
 len_w = 900
 if 1:
