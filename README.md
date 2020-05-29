@@ -23,4 +23,5 @@ source activate deephageTP
 Download the package by
 
 git clone https://github.com/chuym726/DeephageTP.git
+
 cd DeephageTP
