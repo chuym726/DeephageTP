@@ -16,6 +16,7 @@ conda install python=3.6 numpy theano keras scikit-learn
 or creat a virtual environment 
 
 conda create --name deephageTP python=3.6 numpy theano keras scikit-learn 
+
 source activate deephageTP
 
 # Installation
