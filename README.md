@@ -11,11 +11,11 @@ DeephageTP predicts phage-specific proteins using deep learning methods. The met
 
 DeephageTP requires Python 3.6 with the packages of numpy, theano, keras and scikit-learn. We recommand the use Conda to install all dependencies. After installing conda,simply run:
 
-conda install python=3.6 numpy theano keras scikit-learn
+conda install python=3.6 numpy theano Keras=v2.2.2 scikit-learn Prodigal=v2.6.2
 
 or creat a virtual environment 
 
-conda create --name deephageTP python=3.6 numpy theano keras scikit-learn 
+conda create --name deephageTP python=3.6 numpy theano Keras=v2.2.2 scikit-learn Prodigal=v2.6.2
 
 source activate deephageTP
 
