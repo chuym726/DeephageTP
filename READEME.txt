@@ -1,0 +1,1 @@
+gunzip training_data.faa.all.h5.gz training_data.faa.X.npy.gz training_data.faa.Y.npy.gz
