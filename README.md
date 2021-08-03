@@ -52,7 +52,7 @@ source activate deephageTP
 All data used by experiments described in manuscript is available at [Github](https://github.com/chuym726/DeephageTP).
 
 # Citation:
-Yunmeng Chu, Shun Guo, Dachao Cui, Xiongfei Fu, Yingfei Ma. DeephageTP: A Convolutional Neural Network Framework 1 for Identifying Phage-specific Proteins from metagenomic sequencing data. 
+Yunmeng Chu, Shun Guo, Dachao Cui, Xiongfei Fu, Yingfei Ma. DeephageTP: A Convolutional Neural Network Framework for Identifying Phage-specific Proteins from metagenomic sequencing data. 
 
 # Contact:
 
