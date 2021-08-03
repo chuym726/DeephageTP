@@ -9,10 +9,10 @@ Deephage Version:1.0
 DeephageTP predicts phage-specific proteins using deep learning methods. The method has good prediction precision for phage-specific proteins (TerL,Portal and TerS), and it also can be used to predict sequences from the viromic data. CNN can automatically learn protein sequence patterns and simultaneously build a predictive model based on the learned amino acid sequence patterns.Compared to the alignment methods, the CNN is a natural generalization of amino acid based model, can find the similarities of viral proteins at high latitudes. The more flexible CNN model indeed outperforms the alignment methods on viral protein sequence prediction problem.
 
 ## workflow:
-https://github.com/chuym726/DeephageTP/blob/master/figure%201A.png
 
 ![Figure](https://github.com/chuym726/DeephageTP/blob/master/figure%201A.png?raw=true)
 
+![Figure](https://github.com/chuym726/DeephageTP/blob/master/figure%201C.png?raw=true)
 
 # # Installation:
 
