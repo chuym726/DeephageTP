@@ -30,9 +30,15 @@ DeephageTP is implemented in with [Tensorflow](https://www.tensorflow.org/) and 
 Clone the repository or download compressed source code files. 
 
 ```
+
 git clone https://github.com/chuym726/DeephageTP.git
 
 cd DeephageTP
+
+cat training_data.faa.all.h5.tar.gz.* | tar -zxv
+
+gunzip training_data.faa.X.npy.gz training_data.faa.Y.npy.gz
+
 ```
 
 ## Install dependencies:
