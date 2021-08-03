@@ -1,0 +1,1169 @@
+only amino acid code.
+ok! there is the same number (27585) of labels and sequences. 
+27585
+27585
+27585
+ok! windows is 900.
+ok! raw data has been saved as a npy file training_data.faa.X/Y
+ok! there is the same number (193) of labels and sequences. 
+model has loaded.
+predicting!
+
+1/1 [==============================] - 0s 304ms/step
+('the min loss and its predicted label:', (0, 0.014849461615085602), 'label:', 0, 'min_loss:', 0.014849461615085602)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.014849461615085602)])
+('id:', 0, ' orgin label:', '0', ' predict label:', '0', 'loss', '0.014849461615085602')
+
+1/1 [==============================] - 0s 62ms/step
+('the min loss and its predicted label:', (0, 0.0003281177778262645), 'label:', 0, 'min_loss:', 0.0003281177778262645)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.0003281177778262645)])
+('id:', 1, ' orgin label:', '0', ' predict label:', '0', 'loss', '0.0003281177778262645')
+
+1/1 [==============================] - 0s 32ms/step
+('the min loss and its predicted label:', (0, 0.0009017479023896158), 'label:', 0, 'min_loss:', 0.0009017479023896158)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.0009017479023896158)])
+('id:', 2, ' orgin label:', '0', ' predict label:', '0', 'loss', '0.0009017479023896158')
+
+1/1 [==============================] - 0s 36ms/step
+('the min loss and its predicted label:', (0, 4.351148618297884e-06), 'label:', 0, 'min_loss:', 4.351148618297884e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 4.351148618297884e-06)])
+('id:', 3, ' orgin label:', '0', ' predict label:', '0', 'loss', '4.351148618297884e-06')
+
+1/1 [==============================] - 0s 49ms/step
+('the min loss and its predicted label:', (0, 1.1920928955078125e-07), 'label:', 0, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 1.1920928955078125e-07)])
+('id:', 4, ' orgin label:', '0', ' predict label:', '0', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 37ms/step
+('the min loss and its predicted label:', (0, 1.1920928955078125e-07), 'label:', 0, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 1.1920928955078125e-07)])
+('id:', 5, ' orgin label:', '0', ' predict label:', '0', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 44ms/step
+('the min loss and its predicted label:', (0, 1.1920928955078125e-07), 'label:', 0, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 1.1920928955078125e-07)])
+('id:', 6, ' orgin label:', '0', ' predict label:', '0', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 28ms/step
+('the min loss and its predicted label:', (3, 0.0015971295069903135), 'label:', 3, 'min_loss:', 0.0015971295069903135)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0015971295069903135)])
+('id:', 7, ' orgin label:', '0', ' predict label:', '3', 'loss', '0.0015971295069903135')
+
+1/1 [==============================] - 0s 100ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 8, ' orgin label:', '0', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 72ms/step
+('the min loss and its predicted label:', (0, 0.007942063733935356), 'label:', 0, 'min_loss:', 0.007942063733935356)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.007942063733935356)])
+('id:', 9, ' orgin label:', '0', ' predict label:', '0', 'loss', '0.007942063733935356')
+
+1/1 [==============================] - 0s 58ms/step
+('the min loss and its predicted label:', (0, 1.1920928955078125e-07), 'label:', 0, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 1.1920928955078125e-07)])
+('id:', 10, ' orgin label:', '0', ' predict label:', '0', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 35ms/step
+('the min loss and its predicted label:', (0, 8.505944424541667e-05), 'label:', 0, 'min_loss:', 8.505944424541667e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 8.505944424541667e-05)])
+('id:', 11, ' orgin label:', '0', ' predict label:', '0', 'loss', '8.505944424541667e-05')
+
+1/1 [==============================] - 0s 225ms/step
+('the min loss and its predicted label:', (0, 1.1920928955078125e-07), 'label:', 0, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 1.1920928955078125e-07)])
+('id:', 12, ' orgin label:', '0', ' predict label:', '0', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 98ms/step
+('the min loss and its predicted label:', (3, 0.0004186910518910736), 'label:', 3, 'min_loss:', 0.0004186910518910736)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0004186910518910736)])
+('id:', 13, ' orgin label:', '0', ' predict label:', '3', 'loss', '0.0004186910518910736')
+
+1/1 [==============================] - 0s 57ms/step
+('the min loss and its predicted label:', (0, 0.0011334880255162716), 'label:', 0, 'min_loss:', 0.0011334880255162716)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.0011334880255162716)])
+('id:', 14, ' orgin label:', '0', ' predict label:', '0', 'loss', '0.0011334880255162716')
+
+1/1 [==============================] - 0s 34ms/step
+('the min loss and its predicted label:', (3, 3.814704541582614e-06), 'label:', 3, 'min_loss:', 3.814704541582614e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 3.814704541582614e-06)])
+('id:', 15, ' orgin label:', '0', ' predict label:', '3', 'loss', '3.814704541582614e-06')
+
+1/1 [==============================] - 0s 61ms/step
+('the min loss and its predicted label:', (0, 0.6347028017044067), 'label:', 0, 'min_loss:', 0.6347028017044067)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.6347028017044067)])
+('id:', 16, ' orgin label:', '0', ' predict label:', '0', 'loss', '0.6347028017044067')
+
+1/1 [==============================] - 0s 111ms/step
+('the min loss and its predicted label:', (0, 0.00011414940672693774), 'label:', 0, 'min_loss:', 0.00011414940672693774)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.00011414940672693774)])
+('id:', 17, ' orgin label:', '0', ' predict label:', '0', 'loss', '0.00011414940672693774')
+
+1/1 [==============================] - 0s 197ms/step
+('the min loss and its predicted label:', (3, 0.022555578500032425), 'label:', 3, 'min_loss:', 0.022555578500032425)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.022555578500032425)])
+('id:', 18, ' orgin label:', '0', ' predict label:', '3', 'loss', '0.022555578500032425')
+
+1/1 [==============================] - 0s 57ms/step
+('the min loss and its predicted label:', (3, 0.6694393157958984), 'label:', 3, 'min_loss:', 0.6694393157958984)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.6694393157958984)])
+('id:', 19, ' orgin label:', '0', ' predict label:', '3', 'loss', '0.6694393157958984')
+
+1/1 [==============================] - 0s 98ms/step
+('the min loss and its predicted label:', (3, 0.010677575133740902), 'label:', 3, 'min_loss:', 0.010677575133740902)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.010677575133740902)])
+('id:', 20, ' orgin label:', '0', ' predict label:', '3', 'loss', '0.010677575133740902')
+
+1/1 [==============================] - 0s 43ms/step
+('the min loss and its predicted label:', (0, 7.808239388396032e-06), 'label:', 0, 'min_loss:', 7.808239388396032e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 7.808239388396032e-06)])
+('id:', 21, ' orgin label:', '0', ' predict label:', '0', 'loss', '7.808239388396032e-06')
+
+1/1 [==============================] - 0s 24ms/step
+('the min loss and its predicted label:', (0, 0.012224284000694752), 'label:', 0, 'min_loss:', 0.012224284000694752)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.012224284000694752)])
+('id:', 22, ' orgin label:', '0', ' predict label:', '0', 'loss', '0.012224284000694752')
+
+1/1 [==============================] - 0s 47ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 23, ' orgin label:', '0', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 268ms/step
+('the min loss and its predicted label:', (3, 0.0022274607326835394), 'label:', 3, 'min_loss:', 0.0022274607326835394)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0022274607326835394)])
+('id:', 24, ' orgin label:', '0', ' predict label:', '3', 'loss', '0.0022274607326835394')
+
+1/1 [==============================] - 0s 198ms/step
+('the min loss and its predicted label:', (0, 1.1920928955078125e-07), 'label:', 0, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 1.1920928955078125e-07)])
+('id:', 25, ' orgin label:', '0', ' predict label:', '0', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 81ms/step
+('the min loss and its predicted label:', (0, 1.1920928955078125e-07), 'label:', 0, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 1.1920928955078125e-07)])
+('id:', 26, ' orgin label:', '0', ' predict label:', '0', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 81ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 27, ' orgin label:', '0', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 54ms/step
+('the min loss and its predicted label:', (0, 2.4437933916487964e-06), 'label:', 0, 'min_loss:', 2.4437933916487964e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 2.4437933916487964e-06)])
+('id:', 28, ' orgin label:', '0', ' predict label:', '0', 'loss', '2.4437933916487964e-06')
+
+1/1 [==============================] - 0s 104ms/step
+('the min loss and its predicted label:', (0, 0.0629642903804779), 'label:', 0, 'min_loss:', 0.0629642903804779)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.0629642903804779)])
+('id:', 29, ' orgin label:', '0', ' predict label:', '0', 'loss', '0.0629642903804779')
+
+1/1 [==============================] - 0s 60ms/step
+('the min loss and its predicted label:', (0, 5.364419735087722e-07), 'label:', 0, 'min_loss:', 5.364419735087722e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 5.364419735087722e-07)])
+('id:', 30, ' orgin label:', '0', ' predict label:', '0', 'loss', '5.364419735087722e-07')
+
+1/1 [==============================] - 0s 30ms/step
+('the min loss and its predicted label:', (0, 1.1920928955078125e-07), 'label:', 0, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 1.1920928955078125e-07)])
+('id:', 31, ' orgin label:', '0', ' predict label:', '0', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 45ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 32, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 37ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 33, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 46ms/step
+('the min loss and its predicted label:', (2, 0.6221456527709961), 'label:', 2, 'min_loss:', 0.6221456527709961)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.6221456527709961)])
+('id:', 34, ' orgin label:', '1', ' predict label:', '2', 'loss', '0.6221456527709961')
+
+1/1 [==============================] - 0s 21ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 35, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 81ms/step
+('the min loss and its predicted label:', (1, 1.788139485370266e-07), 'label:', 1, 'min_loss:', 1.788139485370266e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.788139485370266e-07)])
+('id:', 36, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.788139485370266e-07')
+
+1/1 [==============================] - 0s 64ms/step
+('the min loss and its predicted label:', (3, 1.788139485370266e-07), 'label:', 3, 'min_loss:', 1.788139485370266e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.788139485370266e-07)])
+('id:', 37, ' orgin label:', '1', ' predict label:', '3', 'loss', '1.788139485370266e-07')
+
+1/1 [==============================] - 0s 37ms/step
+('the min loss and its predicted label:', (3, 0.2630431652069092), 'label:', 3, 'min_loss:', 0.2630431652069092)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.2630431652069092)])
+('id:', 38, ' orgin label:', '1', ' predict label:', '3', 'loss', '0.2630431652069092')
+
+1/1 [==============================] - 0s 84ms/step
+('the min loss and its predicted label:', (1, 0.18681573867797852), 'label:', 1, 'min_loss:', 0.18681573867797852)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 0.18681573867797852)])
+('id:', 39, ' orgin label:', '1', ' predict label:', '1', 'loss', '0.18681573867797852')
+
+1/1 [==============================] - 0s 23ms/step
+('the min loss and its predicted label:', (1, 0.002353634452447295), 'label:', 1, 'min_loss:', 0.002353634452447295)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 0.002353634452447295)])
+('id:', 40, ' orgin label:', '1', ' predict label:', '1', 'loss', '0.002353634452447295')
+
+1/1 [==============================] - 0s 120ms/step
+('the min loss and its predicted label:', (3, 0.0010297830449417233), 'label:', 3, 'min_loss:', 0.0010297830449417233)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0010297830449417233)])
+('id:', 41, ' orgin label:', '1', ' predict label:', '3', 'loss', '0.0010297830449417233')
+
+1/1 [==============================] - 0s 190ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 42, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 53ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 43, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 92ms/step
+('the min loss and its predicted label:', (3, 0.001847482519224286), 'label:', 3, 'min_loss:', 0.001847482519224286)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.001847482519224286)])
+('id:', 44, ' orgin label:', '1', ' predict label:', '3', 'loss', '0.001847482519224286')
+
+1/1 [==============================] - 0s 48ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 45, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 118ms/step
+('the min loss and its predicted label:', (3, 0.006069744937121868), 'label:', 3, 'min_loss:', 0.006069744937121868)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.006069744937121868)])
+('id:', 46, ' orgin label:', '1', ' predict label:', '3', 'loss', '0.006069744937121868')
+
+1/1 [==============================] - 0s 51ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 47, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 29ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 48, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 29ms/step
+('the min loss and its predicted label:', (3, 2.5033982637978625e-06), 'label:', 3, 'min_loss:', 2.5033982637978625e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.5033982637978625e-06)])
+('id:', 49, ' orgin label:', '1', ' predict label:', '3', 'loss', '2.5033982637978625e-06')
+
+1/1 [==============================] - 0s 29ms/step
+('the min loss and its predicted label:', (1, 5.757974577136338e-05), 'label:', 1, 'min_loss:', 5.757974577136338e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 5.757974577136338e-05)])
+('id:', 50, ' orgin label:', '1', ' predict label:', '1', 'loss', '5.757974577136338e-05')
+
+1/1 [==============================] - 0s 71ms/step
+('the min loss and its predicted label:', (1, 0.00013107919949106872), 'label:', 1, 'min_loss:', 0.00013107919949106872)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 0.00013107919949106872)])
+('id:', 51, ' orgin label:', '1', ' predict label:', '1', 'loss', '0.00013107919949106872')
+
+1/1 [==============================] - 0s 95ms/step
+('the min loss and its predicted label:', (3, 0.01693585515022278), 'label:', 3, 'min_loss:', 0.01693585515022278)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.01693585515022278)])
+('id:', 52, ' orgin label:', '1', ' predict label:', '3', 'loss', '0.01693585515022278')
+
+1/1 [==============================] - 0s 99ms/step
+('the min loss and its predicted label:', (1, 3.933914285880746e-06), 'label:', 1, 'min_loss:', 3.933914285880746e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 3.933914285880746e-06)])
+('id:', 53, ' orgin label:', '1', ' predict label:', '1', 'loss', '3.933914285880746e-06')
+
+1/1 [==============================] - 0s 110ms/step
+('the min loss and its predicted label:', (1, 0.006519062910228968), 'label:', 1, 'min_loss:', 0.006519062910228968)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 0.006519062910228968)])
+('id:', 54, ' orgin label:', '1', ' predict label:', '1', 'loss', '0.006519062910228968')
+
+1/1 [==============================] - 0s 14ms/step
+('the min loss and its predicted label:', (1, 0.00010073692101286724), 'label:', 1, 'min_loss:', 0.00010073692101286724)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 0.00010073692101286724)])
+('id:', 55, ' orgin label:', '1', ' predict label:', '1', 'loss', '0.00010073692101286724')
+
+1/1 [==============================] - 0s 17ms/step
+('the min loss and its predicted label:', (3, 9.823327854974195e-05), 'label:', 3, 'min_loss:', 9.823327854974195e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 9.823327854974195e-05)])
+('id:', 56, ' orgin label:', '1', ' predict label:', '3', 'loss', '9.823327854974195e-05')
+
+1/1 [==============================] - 0s 53ms/step
+('the min loss and its predicted label:', (1, 1.8358399756834842e-05), 'label:', 1, 'min_loss:', 1.8358399756834842e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.8358399756834842e-05)])
+('id:', 57, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.8358399756834842e-05')
+
+1/1 [==============================] - 0s 117ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 58, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 49ms/step
+('the min loss and its predicted label:', (1, 0.004253360442817211), 'label:', 1, 'min_loss:', 0.004253360442817211)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 0.004253360442817211)])
+('id:', 59, ' orgin label:', '1', ' predict label:', '1', 'loss', '0.004253360442817211')
+
+1/1 [==============================] - 0s 30ms/step
+('the min loss and its predicted label:', (1, 1.1920928955078125e-07), 'label:', 1, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 1.1920928955078125e-07)])
+('id:', 60, ' orgin label:', '1', ' predict label:', '1', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 99ms/step
+('the min loss and its predicted label:', (1, 0.3407876193523407), 'label:', 1, 'min_loss:', 0.3407876193523407)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(1, 0.3407876193523407)])
+('id:', 61, ' orgin label:', '1', ' predict label:', '1', 'loss', '0.3407876193523407')
+
+1/1 [==============================] - 0s 40ms/step
+('the min loss and its predicted label:', (2, 0.002532586921006441), 'label:', 2, 'min_loss:', 0.002532586921006441)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.002532586921006441)])
+('id:', 62, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.002532586921006441')
+
+1/1 [==============================] - 0s 151ms/step
+('the min loss and its predicted label:', (2, 0.10227520763874054), 'label:', 2, 'min_loss:', 0.10227520763874054)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.10227520763874054)])
+('id:', 63, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.10227520763874054')
+
+1/1 [==============================] - 0s 144ms/step
+('the min loss and its predicted label:', (3, 0.0007099644863046706), 'label:', 3, 'min_loss:', 0.0007099644863046706)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0007099644863046706)])
+('id:', 64, ' orgin label:', '2', ' predict label:', '3', 'loss', '0.0007099644863046706')
+
+1/1 [==============================] - 0s 58ms/step
+('the min loss and its predicted label:', (3, 0.03358907625079155), 'label:', 3, 'min_loss:', 0.03358907625079155)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.03358907625079155)])
+('id:', 65, ' orgin label:', '2', ' predict label:', '3', 'loss', '0.03358907625079155')
+
+1/1 [==============================] - 0s 40ms/step
+('the min loss and its predicted label:', (3, 0.00013763659808319062), 'label:', 3, 'min_loss:', 0.00013763659808319062)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00013763659808319062)])
+('id:', 66, ' orgin label:', '2', ' predict label:', '3', 'loss', '0.00013763659808319062')
+
+1/1 [==============================] - 0s 66ms/step
+('the min loss and its predicted label:', (2, 0.07441949844360352), 'label:', 2, 'min_loss:', 0.07441949844360352)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.07441949844360352)])
+('id:', 67, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.07441949844360352')
+
+1/1 [==============================] - 0s 47ms/step
+('the min loss and its predicted label:', (3, 0.009257297031581402), 'label:', 3, 'min_loss:', 0.009257297031581402)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.009257297031581402)])
+('id:', 68, ' orgin label:', '2', ' predict label:', '3', 'loss', '0.009257297031581402')
+
+1/1 [==============================] - 0s 23ms/step
+('the min loss and its predicted label:', (2, 2.0265599687263602e-06), 'label:', 2, 'min_loss:', 2.0265599687263602e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 2.0265599687263602e-06)])
+('id:', 69, ' orgin label:', '2', ' predict label:', '2', 'loss', '2.0265599687263602e-06')
+
+1/1 [==============================] - 0s 131ms/step
+('the min loss and its predicted label:', (2, 0.37869229912757874), 'label:', 2, 'min_loss:', 0.37869229912757874)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.37869229912757874)])
+('id:', 70, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.37869229912757874')
+
+1/1 [==============================] - 0s 95ms/step
+('the min loss and its predicted label:', (3, 2.3841860752327193e-07), 'label:', 3, 'min_loss:', 2.3841860752327193e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.3841860752327193e-07)])
+('id:', 71, ' orgin label:', '2', ' predict label:', '3', 'loss', '2.3841860752327193e-07')
+
+1/1 [==============================] - 0s 274ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 72, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 76ms/step
+('the min loss and its predicted label:', (2, 0.45296281576156616), 'label:', 2, 'min_loss:', 0.45296281576156616)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.45296281576156616)])
+('id:', 73, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.45296281576156616')
+
+1/1 [==============================] - 0s 90ms/step
+('the min loss and its predicted label:', (3, 4.768372718899627e-07), 'label:', 3, 'min_loss:', 4.768372718899627e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 4.768372718899627e-07)])
+('id:', 74, ' orgin label:', '2', ' predict label:', '3', 'loss', '4.768372718899627e-07')
+
+1/1 [==============================] - 0s 122ms/step
+('the min loss and its predicted label:', (2, 8.344653679159819e-07), 'label:', 2, 'min_loss:', 8.344653679159819e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 8.344653679159819e-07)])
+('id:', 75, ' orgin label:', '2', ' predict label:', '2', 'loss', '8.344653679159819e-07')
+
+1/1 [==============================] - 0s 126ms/step
+('the min loss and its predicted label:', (2, 2.3841860752327193e-07), 'label:', 2, 'min_loss:', 2.3841860752327193e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 2.3841860752327193e-07)])
+('id:', 76, ' orgin label:', '2', ' predict label:', '2', 'loss', '2.3841860752327193e-07')
+
+1/1 [==============================] - 0s 65ms/step
+('the min loss and its predicted label:', (2, 3.278260919614695e-06), 'label:', 2, 'min_loss:', 3.278260919614695e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 3.278260919614695e-06)])
+('id:', 77, ' orgin label:', '2', ' predict label:', '2', 'loss', '3.278260919614695e-06')
+
+1/1 [==============================] - 0s 109ms/step
+('the min loss and its predicted label:', (3, 2.3841860752327193e-07), 'label:', 3, 'min_loss:', 2.3841860752327193e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.3841860752327193e-07)])
+('id:', 78, ' orgin label:', '2', ' predict label:', '3', 'loss', '2.3841860752327193e-07')
+
+1/1 [==============================] - 0s 23ms/step
+('the min loss and its predicted label:', (3, 0.00013775582192465663), 'label:', 3, 'min_loss:', 0.00013775582192465663)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00013775582192465663)])
+('id:', 79, ' orgin label:', '2', ' predict label:', '3', 'loss', '0.00013775582192465663')
+
+1/1 [==============================] - 0s 35ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 80, ' orgin label:', '2', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 197ms/step
+('the min loss and its predicted label:', (2, 3.576279254957626e-07), 'label:', 2, 'min_loss:', 3.576279254957626e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 3.576279254957626e-07)])
+('id:', 81, ' orgin label:', '2', ' predict label:', '2', 'loss', '3.576279254957626e-07')
+
+1/1 [==============================] - 0s 112ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 82, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 360ms/step
+('the min loss and its predicted label:', (2, 0.006452891044318676), 'label:', 2, 'min_loss:', 0.006452891044318676)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.006452891044318676)])
+('id:', 83, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.006452891044318676')
+
+1/1 [==============================] - 0s 41ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 84, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 39ms/step
+('the min loss and its predicted label:', (2, 4.768372718899627e-07), 'label:', 2, 'min_loss:', 4.768372718899627e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 4.768372718899627e-07)])
+('id:', 85, ' orgin label:', '2', ' predict label:', '2', 'loss', '4.768372718899627e-07')
+
+1/1 [==============================] - 0s 32ms/step
+('the min loss and its predicted label:', (3, 7.152559646783629e-07), 'label:', 3, 'min_loss:', 7.152559646783629e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 7.152559646783629e-07)])
+('id:', 86, ' orgin label:', '2', ' predict label:', '3', 'loss', '7.152559646783629e-07')
+
+1/1 [==============================] - 0s 246ms/step
+('the min loss and its predicted label:', (3, 2.2649790025752736e-06), 'label:', 3, 'min_loss:', 2.2649790025752736e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.2649790025752736e-06)])
+('id:', 87, ' orgin label:', '2', ' predict label:', '3', 'loss', '2.2649790025752736e-06')
+
+1/1 [==============================] - 0s 75ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 88, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 54ms/step
+('the min loss and its predicted label:', (2, 0.06717604398727417), 'label:', 2, 'min_loss:', 0.06717604398727417)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.06717604398727417)])
+('id:', 89, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.06717604398727417')
+
+1/1 [==============================] - 0s 134ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 90, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 74ms/step
+('the min loss and its predicted label:', (3, 0.0680418387055397), 'label:', 3, 'min_loss:', 0.0680418387055397)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0680418387055397)])
+('id:', 91, ' orgin label:', '2', ' predict label:', '3', 'loss', '0.0680418387055397')
+
+1/1 [==============================] - 0s 27ms/step
+('the min loss and its predicted label:', (2, 0.0010750707006081939), 'label:', 2, 'min_loss:', 0.0010750707006081939)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.0010750707006081939)])
+('id:', 92, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.0010750707006081939')
+
+1/1 [==============================] - 0s 325ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 93, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 119ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 94, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 26ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 95, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 29ms/step
+('the min loss and its predicted label:', (2, 0.003281428012996912), 'label:', 2, 'min_loss:', 0.003281428012996912)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.003281428012996912)])
+('id:', 96, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.003281428012996912')
+
+1/1 [==============================] - 0s 23ms/step
+('the min loss and its predicted label:', (3, 0.5495831966400146), 'label:', 3, 'min_loss:', 0.5495831966400146)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.5495831966400146)])
+('id:', 97, ' orgin label:', '2', ' predict label:', '3', 'loss', '0.5495831966400146')
+
+1/1 [==============================] - 0s 30ms/step
+('the min loss and its predicted label:', (3, 0.0012076633283868432), 'label:', 3, 'min_loss:', 0.0012076633283868432)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0012076633283868432)])
+('id:', 98, ' orgin label:', '2', ' predict label:', '3', 'loss', '0.0012076633283868432')
+
+1/1 [==============================] - 0s 155ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 99, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 166ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 100, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 194ms/step
+('the min loss and its predicted label:', (3, 0.09305862337350845), 'label:', 3, 'min_loss:', 0.09305862337350845)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.09305862337350845)])
+('id:', 101, ' orgin label:', '2', ' predict label:', '3', 'loss', '0.09305862337350845')
+
+1/1 [==============================] - 0s 144ms/step
+('the min loss and its predicted label:', (2, 0.24625326693058014), 'label:', 2, 'min_loss:', 0.24625326693058014)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.24625326693058014)])
+('id:', 102, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.24625326693058014')
+
+1/1 [==============================] - 0s 156ms/step
+('the min loss and its predicted label:', (2, 1.1920928955078125e-07), 'label:', 2, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 1.1920928955078125e-07)])
+('id:', 103, ' orgin label:', '2', ' predict label:', '2', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 79ms/step
+('the min loss and its predicted label:', (2, 0.00015558023005723953), 'label:', 2, 'min_loss:', 0.00015558023005723953)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.00015558023005723953)])
+('id:', 104, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.00015558023005723953')
+
+1/1 [==============================] - 0s 77ms/step
+('the min loss and its predicted label:', (2, 0.05918780714273453), 'label:', 2, 'min_loss:', 0.05918780714273453)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.05918780714273453)])
+('id:', 105, ' orgin label:', '2', ' predict label:', '2', 'loss', '0.05918780714273453')
+
+1/1 [==============================] - 0s 33ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 106, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 47ms/step
+('the min loss and its predicted label:', (3, 0.020728623494505882), 'label:', 3, 'min_loss:', 0.020728623494505882)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.020728623494505882)])
+('id:', 107, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.020728623494505882')
+
+1/1 [==============================] - 0s 71ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 108, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 39ms/step
+('the min loss and its predicted label:', (3, 0.00022443666239269078), 'label:', 3, 'min_loss:', 0.00022443666239269078)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00022443666239269078)])
+('id:', 109, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.00022443666239269078')
+
+1/1 [==============================] - 0s 58ms/step
+('the min loss and its predicted label:', (3, 0.007530061062425375), 'label:', 3, 'min_loss:', 0.007530061062425375)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.007530061062425375)])
+('id:', 110, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.007530061062425375')
+
+1/1 [==============================] - 0s 44ms/step
+('the min loss and its predicted label:', (3, 2.861027041944908e-06), 'label:', 3, 'min_loss:', 2.861027041944908e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.861027041944908e-06)])
+('id:', 111, ' orgin label:', '3', ' predict label:', '3', 'loss', '2.861027041944908e-06')
+
+1/1 [==============================] - 0s 133ms/step
+('the min loss and its predicted label:', (3, 0.00019248192256782204), 'label:', 3, 'min_loss:', 0.00019248192256782204)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00019248192256782204)])
+('id:', 112, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.00019248192256782204')
+
+1/1 [==============================] - 0s 226ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 113, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 47ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 114, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 185ms/step
+('the min loss and its predicted label:', (3, 3.516680180837284e-06), 'label:', 3, 'min_loss:', 3.516680180837284e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 3.516680180837284e-06)])
+('id:', 115, ' orgin label:', '3', ' predict label:', '3', 'loss', '3.516680180837284e-06')
+
+1/1 [==============================] - 0s 58ms/step
+('the min loss and its predicted label:', (3, 3.576279254957626e-07), 'label:', 3, 'min_loss:', 3.576279254957626e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 3.576279254957626e-07)])
+('id:', 116, ' orgin label:', '3', ' predict label:', '3', 'loss', '3.576279254957626e-07')
+
+1/1 [==============================] - 0s 97ms/step
+('the min loss and its predicted label:', (3, 1.8000764612224884e-05), 'label:', 3, 'min_loss:', 1.8000764612224884e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.8000764612224884e-05)])
+('id:', 117, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.8000764612224884e-05')
+
+1/1 [==============================] - 0s 32ms/step
+('the min loss and its predicted label:', (3, 0.2693006098270416), 'label:', 3, 'min_loss:', 0.2693006098270416)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.2693006098270416)])
+('id:', 118, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.2693006098270416')
+
+1/1 [==============================] - 0s 273ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 119, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 127ms/step
+('the min loss and its predicted label:', (3, 4.1723259869286267e-07), 'label:', 3, 'min_loss:', 4.1723259869286267e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 4.1723259869286267e-07)])
+('id:', 120, ' orgin label:', '3', ' predict label:', '3', 'loss', '4.1723259869286267e-07')
+
+1/1 [==============================] - 0s 29ms/step
+('the min loss and its predicted label:', (3, 0.00010651917546056211), 'label:', 3, 'min_loss:', 0.00010651917546056211)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00010651917546056211)])
+('id:', 121, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.00010651917546056211')
+
+1/1 [==============================] - 0s 141ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 122, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 80ms/step
+('the min loss and its predicted label:', (3, 0.00018818957323674113), 'label:', 3, 'min_loss:', 0.00018818957323674113)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00018818957323674113)])
+('id:', 123, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.00018818957323674113')
+
+1/1 [==============================] - 0s 146ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 124, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 72ms/step
+('the min loss and its predicted label:', (3, 0.002085056621581316), 'label:', 3, 'min_loss:', 0.002085056621581316)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.002085056621581316)])
+('id:', 125, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.002085056621581316')
+
+1/1 [==============================] - 0s 141ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 126, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 42ms/step
+('the min loss and its predicted label:', (3, 1.2636264727916569e-05), 'label:', 3, 'min_loss:', 1.2636264727916569e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.2636264727916569e-05)])
+('id:', 127, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.2636264727916569e-05')
+
+1/1 [==============================] - 0s 128ms/step
+('the min loss and its predicted label:', (3, 0.00029508653096854687), 'label:', 3, 'min_loss:', 0.00029508653096854687)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00029508653096854687)])
+('id:', 128, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.00029508653096854687')
+
+1/1 [==============================] - 0s 54ms/step
+('the min loss and its predicted label:', (2, 0.08233938366174698), 'label:', 2, 'min_loss:', 0.08233938366174698)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.08233938366174698)])
+('id:', 129, ' orgin label:', '3', ' predict label:', '2', 'loss', '0.08233938366174698')
+
+1/1 [==============================] - 0s 29ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 130, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 171ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 131, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 155ms/step
+('the min loss and its predicted label:', (3, 0.0006787696038372815), 'label:', 3, 'min_loss:', 0.0006787696038372815)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0006787696038372815)])
+('id:', 132, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.0006787696038372815')
+
+1/1 [==============================] - 0s 53ms/step
+('the min loss and its predicted label:', (3, 0.0023455091286450624), 'label:', 3, 'min_loss:', 0.0023455091286450624)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0023455091286450624)])
+('id:', 133, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.0023455091286450624')
+
+1/1 [==============================] - 0s 86ms/step
+('the min loss and its predicted label:', (3, 2.622607780722319e-06), 'label:', 3, 'min_loss:', 2.622607780722319e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.622607780722319e-06)])
+('id:', 134, ' orgin label:', '3', ' predict label:', '3', 'loss', '2.622607780722319e-06')
+
+1/1 [==============================] - 0s 166ms/step
+('the min loss and its predicted label:', (3, 0.016995752230286598), 'label:', 3, 'min_loss:', 0.016995752230286598)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.016995752230286598)])
+('id:', 135, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.016995752230286598')
+
+1/1 [==============================] - 0s 112ms/step
+('the min loss and its predicted label:', (3, 0.46481168270111084), 'label:', 3, 'min_loss:', 0.46481168270111084)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.46481168270111084)])
+('id:', 136, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.46481168270111084')
+
+1/1 [==============================] - 0s 29ms/step
+('the min loss and its predicted label:', (3, 0.00035083486000075936), 'label:', 3, 'min_loss:', 0.00035083486000075936)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00035083486000075936)])
+('id:', 137, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.00035083486000075936')
+
+1/1 [==============================] - 0s 112ms/step
+('the min loss and its predicted label:', (3, 0.00245251739397645), 'label:', 3, 'min_loss:', 0.00245251739397645)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00245251739397645)])
+('id:', 138, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.00245251739397645')
+
+1/1 [==============================] - 0s 111ms/step
+('the min loss and its predicted label:', (3, 1.025205165205989e-05), 'label:', 3, 'min_loss:', 1.025205165205989e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.025205165205989e-05)])
+('id:', 139, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.025205165205989e-05')
+
+1/1 [==============================] - 0s 21ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 140, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 67ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 141, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 44ms/step
+('the min loss and its predicted label:', (3, 2.5868750526569784e-05), 'label:', 3, 'min_loss:', 2.5868750526569784e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.5868750526569784e-05)])
+('id:', 142, ' orgin label:', '3', ' predict label:', '3', 'loss', '2.5868750526569784e-05')
+
+1/1 [==============================] - 0s 132ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 143, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 130ms/step
+('the min loss and its predicted label:', (3, 9.655998837843072e-06), 'label:', 3, 'min_loss:', 9.655998837843072e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 9.655998837843072e-06)])
+('id:', 144, ' orgin label:', '3', ' predict label:', '3', 'loss', '9.655998837843072e-06')
+
+1/1 [==============================] - 0s 143ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 145, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 42ms/step
+('the min loss and its predicted label:', (3, 4.1723259869286267e-07), 'label:', 3, 'min_loss:', 4.1723259869286267e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 4.1723259869286267e-07)])
+('id:', 146, ' orgin label:', '3', ' predict label:', '3', 'loss', '4.1723259869286267e-07')
+
+1/1 [==============================] - 0s 90ms/step
+('the min loss and its predicted label:', (3, 2.3841860752327193e-07), 'label:', 3, 'min_loss:', 2.3841860752327193e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.3841860752327193e-07)])
+('id:', 147, ' orgin label:', '3', ' predict label:', '3', 'loss', '2.3841860752327193e-07')
+
+1/1 [==============================] - 0s 45ms/step
+('the min loss and its predicted label:', (3, 7.254148658830673e-05), 'label:', 3, 'min_loss:', 7.254148658830673e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 7.254148658830673e-05)])
+('id:', 148, ' orgin label:', '3', ' predict label:', '3', 'loss', '7.254148658830673e-05')
+
+1/1 [==============================] - 0s 27ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 149, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 117ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 150, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 108ms/step
+('the min loss and its predicted label:', (3, 0.0014617989072576165), 'label:', 3, 'min_loss:', 0.0014617989072576165)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0014617989072576165)])
+('id:', 151, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.0014617989072576165')
+
+1/1 [==============================] - 0s 151ms/step
+('the min loss and its predicted label:', (3, 0.04617178812623024), 'label:', 3, 'min_loss:', 0.04617178812623024)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.04617178812623024)])
+('id:', 152, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.04617178812623024')
+
+1/1 [==============================] - 0s 387ms/step
+('the min loss and its predicted label:', (3, 1.2517053619376384e-05), 'label:', 3, 'min_loss:', 1.2517053619376384e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.2517053619376384e-05)])
+('id:', 153, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.2517053619376384e-05')
+
+1/1 [==============================] - 0s 139ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 154, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 40ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 155, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 55ms/step
+('the min loss and its predicted label:', (3, 0.033209748566150665), 'label:', 3, 'min_loss:', 0.033209748566150665)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.033209748566150665)])
+('id:', 156, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.033209748566150665')
+
+1/1 [==============================] - 0s 139ms/step
+('the min loss and its predicted label:', (3, 1.4007189747644588e-05), 'label:', 3, 'min_loss:', 1.4007189747644588e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.4007189747644588e-05)])
+('id:', 157, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.4007189747644588e-05')
+
+1/1 [==============================] - 0s 101ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 158, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 75ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 159, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 23ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 160, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 89ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 161, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 219ms/step
+('the min loss and its predicted label:', (3, 0.13111858069896698), 'label:', 3, 'min_loss:', 0.13111858069896698)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.13111858069896698)])
+('id:', 162, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.13111858069896698')
+
+1/1 [==============================] - 0s 72ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 163, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 125ms/step
+('the min loss and its predicted label:', (3, 2.3841860752327193e-07), 'label:', 3, 'min_loss:', 2.3841860752327193e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.3841860752327193e-07)])
+('id:', 164, ' orgin label:', '3', ' predict label:', '3', 'loss', '2.3841860752327193e-07')
+
+1/1 [==============================] - 0s 43ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 165, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 42ms/step
+('the min loss and its predicted label:', (2, 0.05639774352312088), 'label:', 2, 'min_loss:', 0.05639774352312088)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(2, 0.05639774352312088)])
+('id:', 166, ' orgin label:', '3', ' predict label:', '2', 'loss', '0.05639774352312088')
+
+1/1 [==============================] - 0s 89ms/step
+('the min loss and its predicted label:', (3, 6.7949526965094265e-06), 'label:', 3, 'min_loss:', 6.7949526965094265e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 6.7949526965094265e-06)])
+('id:', 167, ' orgin label:', '3', ' predict label:', '3', 'loss', '6.7949526965094265e-06')
+
+1/1 [==============================] - 0s 114ms/step
+('the min loss and its predicted label:', (3, 0.000521736335940659), 'label:', 3, 'min_loss:', 0.000521736335940659)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.000521736335940659)])
+('id:', 168, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.000521736335940659')
+
+1/1 [==============================] - 0s 125ms/step
+('the min loss and its predicted label:', (0, 0.19348318874835968), 'label:', 0, 'min_loss:', 0.19348318874835968)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(0, 0.19348318874835968)])
+('id:', 169, ' orgin label:', '3', ' predict label:', '0', 'loss', '0.19348318874835968')
+
+1/1 [==============================] - 0s 52ms/step
+('the min loss and its predicted label:', (3, 0.0005784515524283051), 'label:', 3, 'min_loss:', 0.0005784515524283051)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0005784515524283051)])
+('id:', 170, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.0005784515524283051')
+
+1/1 [==============================] - 0s 50ms/step
+('the min loss and its predicted label:', (3, 0.0020111745689064264), 'label:', 3, 'min_loss:', 0.0020111745689064264)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.0020111745689064264)])
+('id:', 171, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.0020111745689064264')
+
+1/1 [==============================] - 0s 44ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 172, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 36ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 173, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 82ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 174, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 29ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 175, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 47ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 176, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 56ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 177, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 31ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 178, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 96ms/step
+('the min loss and its predicted label:', (3, 0.5680705308914185), 'label:', 3, 'min_loss:', 0.5680705308914185)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.5680705308914185)])
+('id:', 179, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.5680705308914185')
+
+1/1 [==============================] - 0s 46ms/step
+('the min loss and its predicted label:', (3, 0.056166455149650574), 'label:', 3, 'min_loss:', 0.056166455149650574)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.056166455149650574)])
+('id:', 180, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.056166455149650574')
+
+1/1 [==============================] - 0s 108ms/step
+('the min loss and its predicted label:', (3, 8.940736734075472e-06), 'label:', 3, 'min_loss:', 8.940736734075472e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 8.940736734075472e-06)])
+('id:', 181, ' orgin label:', '3', ' predict label:', '3', 'loss', '8.940736734075472e-06')
+
+1/1 [==============================] - 0s 148ms/step
+('the min loss and its predicted label:', (3, 1.585496102052275e-05), 'label:', 3, 'min_loss:', 1.585496102052275e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.585496102052275e-05)])
+('id:', 182, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.585496102052275e-05')
+
+1/1 [==============================] - 0s 126ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 183, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 44ms/step
+('the min loss and its predicted label:', (3, 6.556513199029723e-07), 'label:', 3, 'min_loss:', 6.556513199029723e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 6.556513199029723e-07)])
+('id:', 184, ' orgin label:', '3', ' predict label:', '3', 'loss', '6.556513199029723e-07')
+
+1/1 [==============================] - 0s 45ms/step
+('the min loss and its predicted label:', (3, 6.354056677082554e-05), 'label:', 3, 'min_loss:', 6.354056677082554e-05)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 6.354056677082554e-05)])
+('id:', 185, ' orgin label:', '3', ' predict label:', '3', 'loss', '6.354056677082554e-05')
+
+1/1 [==============================] - 0s 40ms/step
+('the min loss and its predicted label:', (3, 1.1324889328534482e-06), 'label:', 3, 'min_loss:', 1.1324889328534482e-06)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1324889328534482e-06)])
+('id:', 186, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1324889328534482e-06')
+
+1/1 [==============================] - 0s 87ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 187, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 57ms/step
+('the min loss and its predicted label:', (3, 2.3841860752327193e-07), 'label:', 3, 'min_loss:', 2.3841860752327193e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 2.3841860752327193e-07)])
+('id:', 188, ' orgin label:', '3', ' predict label:', '3', 'loss', '2.3841860752327193e-07')
+
+1/1 [==============================] - 0s 72ms/step
+('the min loss and its predicted label:', (3, 0.00034540894557721913), 'label:', 3, 'min_loss:', 0.00034540894557721913)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00034540894557721913)])
+('id:', 189, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.00034540894557721913')
+
+1/1 [==============================] - 0s 95ms/step
+('the min loss and its predicted label:', (3, 1.1920928955078125e-07), 'label:', 3, 'min_loss:', 1.1920928955078125e-07)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 1.1920928955078125e-07)])
+('id:', 190, ' orgin label:', '3', ' predict label:', '3', 'loss', '1.1920928955078125e-07')
+
+1/1 [==============================] - 0s 27ms/step
+('the min loss and its predicted label:', (3, 0.00019021650950890034), 'label:', 3, 'min_loss:', 0.00019021650950890034)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.00019021650950890034)])
+('id:', 191, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.00019021650950890034')
+
+1/1 [==============================] - 0s 170ms/step
+('the min loss and its predicted label:', (3, 0.4655103087425232), 'label:', 3, 'min_loss:', 0.4655103087425232)
+('the number of splited fragment:', 1)
+('the predicted labels and its losses of all fragment(sequences splited by 500AA):', [(3, 0.4655103087425232)])
+('id:', 192, ' orgin label:', '3', ' predict label:', '3', 'loss', '0.4655103087425232')
+all is ended.
